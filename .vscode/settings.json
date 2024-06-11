@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "string_view": "cpp",
+        "format": "cpp",
+        "initializer_list": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "stacktrace": "cpp",
+        "regex": "cpp",
+        "valarray": "cpp",
+        "sstream": "cpp"
+    },
+    "files.exclude": {
+        "**/*.exe": true,
+        "**/*.cpp.un~":true,
+        "**/*.cpp~":true
+    }
+}
